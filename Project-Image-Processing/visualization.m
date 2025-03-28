@@ -1,7 +1,7 @@
 clc; clear; close all;
 
 % Load a segmented image (Example: Choose an image from your dataset)
-img_path = "F:/Matlab/Project-Image-Processing/Resized/city-skyline-night_resized.jpg";
+img_path = "Project-Image-Processing/Resized/city-skyline-night_resized.jpg";
 img = imread(img_path);
 img_gray = rgb2gray(img); % Convert to grayscale
 

@@ -1,8 +1,8 @@
 clc; clear; close all;
 
 % Define directories
-folder = "F:/Matlab/Project-Image-Processing/Resized/";
-save_folder = "F:/Matlab/Project-Image-Processing/Segmented/";
+folder = "Project-Image-Processing/Resized/";
+save_folder = "Project-Image-Processing/Segmented/";
 
 % Ensure save folder exists
 if ~exist(save_folder, 'dir')

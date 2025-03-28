@@ -1,7 +1,7 @@
 clc; clear; close all;
 
 % Define directories
-resized_folder = "F:/Matlab/Project-Image-Processing/Resized/"; % Folder with resized images
+resized_folder = "Project-Image-Processing/Resized/"; % Folder with resized images
 labels = ["City", "Bird", "Mountain", "Lion", "Cabin"]; % Scene categories
 
 % Get image files

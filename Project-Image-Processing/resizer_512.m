@@ -1,6 +1,6 @@
 % Define image directory
-folder = "F:/Matlab/Project-Image-Processing/";
-save_folder = "F:/Matlab/Project-Image-Processing/Resized/"; % Folder to save resized images
+folder = "Project-Image-Processing/";
+save_folder = "Project-Image-Processing/Resized/"; % Folder to save resized images
 
 % Ensure save folder exists
 if ~exist(save_folder, 'dir')
